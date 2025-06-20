@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Create another theme without translucent status bar to have transparent status bar on API 30 -->
+    <style name="Theme.PhotoEditor" parent="Base.Theme.PhotoEditor">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

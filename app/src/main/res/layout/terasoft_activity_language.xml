@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="10dp">
+
+        <TextView
+            android:id="@+id/textViewLanguage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fontFamily="@font/quicksand_bold"
+            android:text="@string/select_a_language"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+
+        <!--        <Button-->
+        <!--            android:id="@+id/buttonLanguageNext"-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:text="@string/next"-->
+        <!--            android:fontFamily="@font/quicksand_bold"-->
+        <!--            android:background="@color/transparent"/>-->
+
+        <ImageButton
+            android:id="@+id/buttonLanguageNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/transparent"
+            android:contentDescription="@string/button"
+            android:src="@drawable/ic_check" />
+
+    </LinearLayout>
+
+    <com.apero.firstopen.view.FOLanguageRecyclerView
+        android:id="@+id/recyclerViewLanguageList"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <FrameLayout
+        android:id="@+id/nativeAdView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EDE6D2">
+
+        <com.facebook.shimmer.ShimmerFrameLayout
+            android:id="@+id/shimmer_container_native"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="200dp" />
+
+
+        <include
+            layout="@layout/native_ads_large"
+            android:visibility="invisible" />
+    </FrameLayout>
+
+</LinearLayout>

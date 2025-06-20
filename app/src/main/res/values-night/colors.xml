@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="noti_text">#FFFFFF</color>
+    <color name="noti_ongoing_item_bg">#4F4F4F</color>
+    <color name="noti_ongoing_item_ripple_color">#FFFFFF</color>
+    <color name="noti_ongoing_item_text">#FFFFFF</color>
+</resources>

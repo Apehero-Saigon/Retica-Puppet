@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756084027842",
+    "project_id": "hcm113-retica-photo-editor",
+    "storage_bucket": "hcm113-retica-photo-editor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756084027842:android:270c1f5edb9904638da65b",
+        "android_client_info": {
+          "package_name": "com.retica.aiphotoeditor.camerapro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwHNUj2hek2hwManzfoJLU3RjpIDnhjp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

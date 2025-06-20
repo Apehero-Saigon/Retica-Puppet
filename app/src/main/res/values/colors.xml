@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#090B0E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FFD147</color>
+    <color name="semi_transparent">#EE000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="dark_neutral_title">#090B0E</color>
+
+    <color name="noti_text">#000000</color>
+    <color name="noti_ongoing_item_bg">#FEFAF1</color>
+    <color name="noti_ongoing_item_ripple_color">#000000</color>
+    <color name="noti_ongoing_item_text">#333333</color>
+</resources>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Retica</string>
+    <string name="facebook_app_id" translatable="false">508945724966938</string>
+    <string name="facebook_client_token" translatable="false">c1160d32f0c7b0a0bb2bb026909d0a94</string>
+
+    <string name="icon">icon</string>
+    <string name="image">image</string>
+    <string name="select_a_language">Select a language</string>
+    <string name="next">Next</string>
+    <string name="language">Language</string>
+    <string name="share_with">Share with</string>
+    <string name="notification">Notification</string>
+    <string name="permission_bs_notification">This helps you stay informed and never miss out on important updates.</string>
+    <string name="permission_bs_library">This will enable you to select and manage your images directly within the app.</string>
+    <string name="permission_bs_camera">This allows you to capture new images directly from the app.</string>
+    <string name="photo_library">Photo Library</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="back">Back</string>
+    <string name="camera">Camera</string>
+    <string name="no_images">No image found</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="none">None</string>
+    <string name="all_photos">All photos</string>
+    <string name="sort">Sort</string>
+    <string name="name">Name</string>
+    <string name="last_modified">Last modified</string>
+    <string name="size">Size</string>
+    <string name="select_language">Select Language</string>
+    <string name="home">Home</string>
+    <string name="confirm">Confirm</string>
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="go_back">Go back</string>
+    <string name="settings">Settings</string>
+    <string name="this_action_may_contain_advertising">This action may contain advertising</string>
+    <string name="sticker">Sticker</string>
+    <string name="filter">Filter</string>
+    <string name="beauty">Beauty</string>
+    <string name="makeup">Makeup</string>
+    <string name="frame">Frame</string>
+    <string name="brush">Brush</string>
+    <string name="edit_photo">Edit Photo</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="home_pager_1_1">Elevating Beauty</string>
+    <string name="home_pager_1_2">Makeup Studio</string>
+    <string name="home_pager_2_1">Impressing Yourself with</string>
+    <string name="home_pager_2_2">Beautiful filter</string>
+    <string name="home_pager_3_1">The Secret to Stunning Pictures</string>
+    <string name="home_pager_3_2">Photos Frame</string>
+    <string name="home_pager_4_1">Create your Unique Photo</string>
+    <string name="home_pager_4_2">Brushes - Stickers</string>
+    <string name="capture">Capture</string>
+    <string name="library">Library</string>
+    <string name="close">Close</string>
+    <string name="intensity">Intensity</string>
+    <string name="aspect_ratio">Aspect Ratio</string>
+    <string name="flash">Flash</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="cancel">Cancel</string>
+    <string name="adjust">Adjust</string>
+    <string name="crop">Crop</string>
+    <string name="rotate">Rotate</string>
+    <string name="angle">Angle</string>
+    <string name="text">Text</string>
+    <string name="lux">Lux</string>
+    <string name="exposure">Exposure</string>
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="saturation">Saturation</string>
+    <string name="vibrance">Vibrance</string>
+    <string name="clarity">Clarity</string>
+    <string name="warmth">Warmth</string>
+    <string name="tint">Tint</string>
+    <string name="highlight">Highlight</string>
+    <string name="shadows">Shadows</string>
+    <string name="fade">Fade</string>
+    <string name="grain">Grain</string>
+    <string name="vignette">Vignette</string>
+    <string name="mosaic">Mosaic</string>
+    <string name="dust">Dust</string>
+    <string name="slim">Slim</string>
+    <string name="length">Length</string>
+    <string name="brighten">Brighten</string>
+    <string name="eyes">Eyes</string>
+    <string name="smooth">Smooth</string>
+    <string name="nose">Nose</string>
+    <string name="teeth">Teeth</string>
+    <string name="rotate_left">Left</string>
+    <string name="rotate_right">Right</string>
+    <string name="flip_horizontally">Flip H</string>
+    <string name="flip_vertically">Flip V</string>
+    <string name="curve">Curve</string>
+    <string name="hsl">HSL</string>
+    <string name="rgb">RGB</string>
+    <string name="delete">Delete</string>
+    <string name="info">Info</string>
+    <string name="hue">Hue</string>
+    <string name="lightness">Lightness</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="save">Save</string>
+    <string name="image_saved">Image saved</string>
+    <string name="lipstick">Lipstick</string>
+    <string name="eyelash">Eyelash</string>
+    <string name="eyebrow">Eyebrow</string>
+    <string name="blush">Blush</string>
+    <string name="eyeshadow">Eyeshadow</string>
+    <string name="eyeliner">Eyeliner</string>
+    <string name="eyelen">Eyelen</string>
+    <string name="mark">Mark</string>
+    <string name="density">Density</string>
+    <string name="camera_access">Camera Access</string>
+    <string name="error_app_not_installed">App not installed!</string>
+    <string name="show_original">Show original</string>
+    <string name="original">Original</string>
+    <string name="confirm_back_title">Discard changes?</string>
+    <string name="confirm_back_description">This action will restore all changes. Are you sure you want to do this?</string>
+    <string name="continue_to_edit">Continue to edit</string>
+    <string name="yes_discard">Yes, discard</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="x_twitter">X(Twitter)</string>
+    <string name="threads">Threads</string>
+    <string name="more">More</string>
+    <string name="select_another">Edit another</string>
+    <string name="edit">Edit</string>
+    <string name="share_to">Share to</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="preparing_beauty_data">Preparing beauty data...</string>
+    <string name="beauty_no_facelandmark">No face detected. Cannot use this function.</string>
+    <string name="saving_image">Saving image...</string>
+    <string name="click_to_edit">Click to Edit</string>
+    <string name="color">Color</string>
+    <string name="shadow">Shadow</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="erase">Erase</string>
+    <string name="retro_filter">Retro Filter</string>
+    <string name="radio_button">Radio Button</string>
+    <string name="welcome_select_one">Please select at least one item</string>
+    <string name="welcome_title">Celebrate your unique and enhanced self.</string>
+    <string name="welcome_retro">Retro</string>
+    <string name="welcome_cinematic">Cinematic</string>
+    <string name="welcome_aesthetic">Aesthetic</string>
+    <string name="welcome_dreamy">Dreamy</string>
+    <string name="welcome_natural">Natural</string>
+    <string name="welcome_infrared">Infrared</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="welcome_subtitle">Content will be based on your stated preferences.</string>
+    <string name="lets_start">Let\'s Start</string>
+    <string name="onboard_1_1">One tap, new look!</string>
+    <string name="onboard_1_2">Discover your favorite filters.</string>
+    <string name="onboard_2_1">Luminous eyes</string>
+    <string name="onboard_2_2">Alluring Lips</string>
+    <string name="onboard_3_1">More than just borders</string>
+    <string name="onboard_3_2">Stunning your photo with no boundary!</string>
+    <string name="onboard_2_3">Beauty, boosted!</string>
+    <string name="onboard_2_4">Celebrate your unique and enhanced self.</string>
+    <string name="lockscreen_filter_1">Your creativity deserves a new canvas!</string>
+    <string name="lockscreen_filter_2">Check out the latest filter pack we\'ve added to elevate your photos.</string>
+    <string name="later">Later</string>
+    <string name="try_now">Try now!</string>
+    <string name="lockscreen_brush_1">Add artistic brushes, text, and stickers to make your collage truly unique!</string>
+    <string name="ratio_original">Original</string>
+    <string name="ratio_free">Free</string>
+    <string name="ratio_square">Square</string>
+    <string name="ratio_9_16">9:16</string>
+    <string name="ratio_16_9">16:9</string>
+    <string name="ratio_2_3">2:3</string>
+    <string name="ratio_3_2">3:2</string>
+    <string name="ratio_3_4">3:4</string>
+    <string name="ratio_4_3">4:3</string>
+    <string name="experimental_feature_1_msg">Unexpected error. Please try again!</string>
+    <string name="hindi_language">Hindi language</string>
+    <string name="remove_background">Remove Background</string>
+    <string name="retouch">Retouch</string>
+    <string name="retouching">Retouching...</string>
+    <string name="ai_transfer">AI Transfer</string>
+    <string name="ai_enhance">AI Enhance</string>
+    <string name="background">Background</string>
+    <string name="remove">remove</string>
+    <string name="remove_bg_intro_title">One-click \nbackground removal</string>
+    <string name="remove_bg_intro_subtitle">Automatically remove backgrounds in seconds</string>
+    <string name="watch_an_ad">Watch an Ad</string>
+    <string name="remove_bg_intro_try">or try a sample below</string>
+    <string name="sample">Sample</string>
+    <string name="removing_background">Removing background\n</string>
+    <string name="minimize">Minimize</string>
+    <string name="maximize">Maximize\n</string>
+    <string name="preview">Preview</string>
+    <string name="solid_color">Solid Color</string>
+    <string name="add_color">Add color</string>
+    <string name="add_image">Add image</string>
+    <string name="scene">Scene</string>
+    <string name="select_image">Select Image</string>
+    <string name="retouch_intro_title">Portrait Retouch tool</string>
+    <string name="retouch_intro_subtitle">Radiate Confidence in Every Shot.</string>
+    <string name="photo">photo</string>
+    <string name="restore">Restore</string>
+    <string name="brush_size">Brush size</string>
+    <string name="retouch_touch_tutorial">Touch on the object to automatically remove the object from the image.</string>
+    <string name="ai_artistic">Ai Artistic</string>
+    <string name="ai_art_intro_title">Stunning</string>
+    <string name="ai_art_intro_subtitle">AI-powered artistry</string>
+    <string name="upload_your_photo">Upload your photo</string>
+    <string name="style_water_color">Water Color</string>
+    <string name="style_oil_color_1">Oil Color 1</string>
+    <string name="style_oil_color">Oil Color</string>
+    <string name="style_oil_color_2">Oil Color 2</string>
+    <string name="style_digital">Digital</string>
+    <string name="style_van_gogh">Van Gogh</string>
+    <string name="style_picasso">Picasso</string>
+    <string name="style_illustration">Illustration</string>
+    <string name="style_pop_art">Pop Art</string>
+    <string name="style_mosaic">Mosaic</string>
+    <string name="style_ink_color">Ink Color</string>
+    <string name="style_neo_classic">Neo Classic</string>
+    <string name="style_cubism">Cubism</string>
+    <string name="style_indian_1">Indian 1</string>
+    <string name="style_indian_2">Indian 2</string>
+    <string name="style_la_scapigliata">La scapigliata</string>
+    <string name="style_candy">Candy</string>
+    <string name="style_japanese_1">Japanese 1</string>
+    <string name="style_japanese_2">Japanese 2</string>
+    <string name="style_chinese">Chinese</string>
+    <string name="style_line_art">Line Art</string>
+    <string name="blend_ratio">Blend ratio</string>
+    <string name="artistic_blend_ratio_info">The higher blend ratio, the more output image will look like input image.</string>
+    <string name="loading">loading</string>
+    <string name="ai_loading_title">AI is chilling . . .</string>
+    <string name="ai_loading_subtitle">Our AI is creating your photo. This process will take for a while.</string>
+    <string name="enhancing">Enhancing\n</string>
+    <string name="slider">Slider</string>
+    <string name="enhance_intro_title">Let our AI do the magic</string>
+    <string name="enhance_intro_subtitle">Transform your photos effortlessly.</string>
+    <string name="upload_photo_for">Upload photo for</string>
+    <string name="touch">Touch</string>
+    <string name="try_it_out">Try it out!</string>
+    <string name="bg_remove">bg remove</string>
+    <string name="onboard_2_5">Remove Object</string>
+    <string name="onboard_2_6">Make the object clean and clear</string>
+    <string name="storage_permission_required">Photo library permission required.</string>
+    <string name="promotion_dialog_1_1">remove \nall limits</string>
+    <string name="promotion_dialog_1_2">Make the image more realistic</string>
+    <string name="promotion_dialog_2_1">Enhances your content by</string>
+    <string name="promotion_dialog_2_2">Powerful filter</string>
+    <string name="promotion_dialog_2_3">It boosts clarity, sharpens details, and optimizes colors to make your visuals or data stand out effortlesslyc</string>
+    <string name="promotion_dialog_3_1">Effortlessly</string>
+    <string name="promotion_dialog_3_2">Removes \nBackgrounds</string>
+    <string name="promotion_dialog_3_3">just a few taps!</string>
+    <string name="button">Button</string>
+    <string name="beauty_boosted">Beauty, boosted!</string>
+    <string name="celebrate_your_unique_and_enhanced_self">Celebrate your unique and enhanced self</string>
+    <string name="more_than_just_borders">More than just borders</string>
+    <string name="stunning_your_photo_with_no_boundary">Stunning your photo with no boundary!</string>
+    <string name="remove_object">Remove Object</string>
+    <string name="make_the_object_clean_and_clear">Make the object clean and clear</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+
+</resources><!-- Translate these items into German (de), Spanish (es), French (fr), Indonesian (id), Japanese (ja), Korean (ko) and Portuguese (pt) keeping xml tags, put each language into a code block with language name on it -->
+    <!-- Translate these items into Bangla (bn), Gujarati (gu), Hindi (hi), Kannada (kn), Marathi (mr), Odia (or), Tamil (ta), Telugu (te) and Urdu (ur) keeping xml tags, put each language into a code block with language name on it -->
