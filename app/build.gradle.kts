@@ -28,7 +28,7 @@ android {
         minSdk = 27
         targetSdk = 35
         versionCode = 6
-        versionName = "0.4.0"
+        versionName = "0.4.1-dev"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
@@ -336,19 +336,12 @@ dependencies {
 //    implementation(project(":core:gallery"))
 //    implementation(project(":core:colorpicker"))
 
-    // Terasoft Monetization
-    implementation("apero-inhouse:first-open:2.5.0") {
-        exclude(group = "com.google.ads.mediation", module = "pangle")
-    }
-    // In app update / review / rate - bỏ qua apero-inhouse từ thư viện của astronex để lấy thư viện của terasoft SDK
-    implementation(libs.apero.monetization) {
-        exclude(group = "apero-inhouse", module = "apero-ads")
-    }
     implementation(libs.inappupdate)
     implementation(libs.review)
-    implementation("apero-inhouse:apero-ads:7.20.0") {
-        exclude(group = "com.google.ads.mediation", module = "pangle")
-    }
+
+    // Terasoft Monetization
+    implementation("apero-inhouse:first-open:2.5.0-beta06")
+    implementation("apero-inhouse:apero-ads:7.20.0")
 }
 
 composeCompiler {
